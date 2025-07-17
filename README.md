@@ -18,4 +18,8 @@
 |  |
 | ------- |
 | [3643-zero-array-transformation-ii](https://github.com/Vinay8git/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+## String
+|  |
+| ------- |
+| [3396-valid-word](https://github.com/Vinay8git/Leetcode/tree/master/3396-valid-word) |
 <!---LeetCode Topics End-->
