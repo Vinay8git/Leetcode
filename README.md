@@ -7,6 +7,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Vinay8git/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Vinay8git/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Vinay8git/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Vinay8git/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -24,4 +25,12 @@
 |  |
 | ------- |
 | [3396-valid-word](https://github.com/Vinay8git/Leetcode/tree/master/3396-valid-word) |
+## Hash Table
+|  |
+| ------- |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Vinay8git/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+## Greedy
+|  |
+| ------- |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Vinay8git/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 <!---LeetCode Topics End-->
