@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Vinay8git/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Vinay8git/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [1418-fair-distribution-of-cookies](https://github.com/Vinay8git/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Vinay8git/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -15,6 +16,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Vinay8git/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Vinay8git/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [1418-fair-distribution-of-cookies](https://github.com/Vinay8git/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Vinay8git/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -61,4 +63,8 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vinay8git/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/Vinay8git/Leetcode/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
