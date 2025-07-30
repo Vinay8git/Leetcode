@@ -1,4 +1,4 @@
-class Solution {
+class Solution1 {
     Map<String, Integer> hm;
     private int search(int i, int j, int m, int n, int[][] og)
     {   
@@ -31,5 +31,37 @@ class Solution {
         hm.put((m-1)+""+(n-1), 1);
 
         return search(0, 0, m, n, og);
+    }
+}
+
+
+class Solution {
+    public int uniquePathsWithObstacles(int[][] og) 
+    {
+        int m = og.length;
+        int n = og[0].length;
+
+        //Special Case
+        if(og[m-1][n-1] == 1) return 0;
+
+        int[][] dp = new int[m+1][n+1];
+
+        //Base Case
+        dp[m-1][n-1] = 1;
+
+        for(int i=m-1; i>=0; i--)
+        {
+            for(int j=n-1; j>=0; j--)
+            {
+                if(i==m-1 && j==n-1)
+                    continue;
+
+                if(og[i][j]==1)
+                    dp[i][j]=0;
+
+                else dp[i][j] = dp[i+1][j]+dp[i][j+1];
+            }
+        }
+        return dp[0][0];
     }
 }
