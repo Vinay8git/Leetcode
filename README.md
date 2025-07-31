@@ -32,10 +32,12 @@
 ## String
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/Vinay8git/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [3396-valid-word](https://github.com/Vinay8git/Leetcode/tree/master/3396-valid-word) |
 ## Hash Table
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/Vinay8git/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Vinay8git/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Greedy
 |  |
@@ -44,6 +46,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/Vinay8git/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1418-fair-distribution-of-cookies](https://github.com/Vinay8git/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 ## Bit Manipulation
 |  |
@@ -67,4 +70,8 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Vinay8git/Leetcode/tree/master/0063-unique-paths-ii) |
+## Counting
+|  |
+| ------- |
+| [1160-letter-tile-possibilities](https://github.com/Vinay8git/Leetcode/tree/master/1160-letter-tile-possibilities) |
 <!---LeetCode Topics End-->
