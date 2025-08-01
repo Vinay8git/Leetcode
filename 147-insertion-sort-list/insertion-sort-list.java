@@ -31,7 +31,7 @@ class Solution1 {
 }
 
 class Solution {
-    private void insertionSort(List<Integer> al)
+    private List<Integer> insertionSort(List<Integer> al)
     {
         for(int i=1;i<al.size();i++)
         {
@@ -46,7 +46,7 @@ class Solution {
             al.set(j+1, key);
 
         }
-        // return al;
+        return al;
     }
     public ListNode insertionSortList(ListNode head) {
         List<Integer> list = new ArrayList<>();
@@ -57,7 +57,7 @@ class Solution {
             head = head.next;
         }
 
-        insertionSort(list);
+        list = insertionSort(list);
         ListNode dummy = new ListNode(-1);
         temp = dummy;
         for(int n : list)
