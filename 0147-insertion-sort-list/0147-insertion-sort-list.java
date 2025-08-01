@@ -9,11 +9,11 @@
  * }
  */
 class Solution1 {
+
     public ListNode insertionSortList(ListNode head) {
         List<Integer> list = new ArrayList<>();
         ListNode temp = head;
-        while(head != null)
-        {
+        while (head != null) {
             list.add(head.val);
             head = head.next;
         }
@@ -21,8 +21,7 @@ class Solution1 {
         Collections.sort(list);
         ListNode dummy = new ListNode(-1);
         temp = dummy;
-        for(int n : list)
-        {
+        for (int n : list) {
             dummy.next = new ListNode(n);
             dummy = dummy.next;
         }
@@ -31,28 +30,25 @@ class Solution1 {
 }
 
 class Solution2 {
-    private void insertionSort(List<Integer> al)
-    {
-        for(int i=1;i<al.size();i++)
-        {
-            int key = al.get(i);
-            int j = i-1;
-            
-            while(j>=0 && al.get(j)>key)
-            {
-                al.set(j+1, al.get(j));
-                j-=1;
-            }
-            al.set(j+1, key);
 
+    private void insertionSort(List<Integer> al) {
+        for (int i = 1; i < al.size(); i++) {
+            int key = al.get(i);
+            int j = i - 1;
+
+            while (j >= 0 && al.get(j) > key) {
+                al.set(j + 1, al.get(j));
+                j -= 1;
+            }
+            al.set(j + 1, key);
         }
         // return al;
     }
+
     public ListNode insertionSortList(ListNode head) {
         List<Integer> list = new ArrayList<>();
         ListNode temp = head;
-        while(head != null)
-        {
+        while (head != null) {
             list.add(head.val);
             head = head.next;
         }
@@ -60,8 +56,7 @@ class Solution2 {
         insertionSort(list);
         ListNode dummy = new ListNode(-1);
         temp = dummy;
-        for(int n : list)
-        {
+        for (int n : list) {
             dummy.next = new ListNode(n);
             dummy = dummy.next;
         }
@@ -69,30 +64,26 @@ class Solution2 {
     }
 }
 
-
 class Solution3 {
-    private List<Integer> insertionSort(List<Integer> al)
-    {
-        for(int i=1;i<al.size();i++)
-        {
-            int key = al.get(i);
-            int j = i-1;
-            
-            while(j>=0 && al.get(j)>key)
-            {
-                al.set(j+1, al.get(j));
-                j-=1;
-            }
-            al.set(j+1, key);
 
+    private List<Integer> insertionSort(List<Integer> al) {
+        for (int i = 1; i < al.size(); i++) {
+            int key = al.get(i);
+            int j = i - 1;
+
+            while (j >= 0 && al.get(j) > key) {
+                al.set(j + 1, al.get(j));
+                j -= 1;
+            }
+            al.set(j + 1, key);
         }
         return al;
     }
+
     public ListNode insertionSortList(ListNode head) {
         List<Integer> list = new ArrayList<>();
         ListNode temp = head;
-        while(head != null)
-        {
+        while (head != null) {
             list.add(head.val);
             head = head.next;
         }
@@ -100,8 +91,80 @@ class Solution3 {
         list = insertionSort(list);
         ListNode dummy = new ListNode(-1);
         temp = dummy;
-        for(int n : list)
-        {
+        for (int n : list) {
+            dummy.next = new ListNode(n);
+            dummy = dummy.next;
+        }
+        return temp.next;
+    }
+}
+
+class Solution4 {
+
+    private void insertionSort(List<Integer> al, int n) {
+        if (n == 0) return;
+
+        insertionSort(al, n - 1);
+
+        int j = n - 1;
+        int key = al.get(n);
+        while (j >= 0 && al.get(j) > key) {
+            al.set(j + 1, al.get(j));
+            j -= 1;
+        }
+        al.set(j + 1, key);
+        return;
+    }
+
+    public ListNode insertionSortList(ListNode head) {
+        List<Integer> list = new ArrayList<>();
+        ListNode temp = head;
+        while (head != null) {
+            list.add(head.val);
+            head = head.next;
+        }
+
+        insertionSort(list, list.size() - 1);
+        ListNode dummy = new ListNode(-1);
+        temp = dummy;
+        for (int n : list) {
+            dummy.next = new ListNode(n);
+            dummy = dummy.next;
+        }
+        return temp.next;
+    }
+}
+
+class Solution5 {
+
+    private List<Integer> insertionSort(List<Integer> al, int i, int n) {
+        if (i >= n) return al;
+
+        // insertionSort(al, n-1);
+
+        int j = i - 1;
+        int key = al.get(i);
+        while (j >= 0 && al.get(j) > key) {
+            al.set(j + 1, al.get(j));
+            j -= 1;
+        }
+        al.set(j + 1, key);
+
+        return insertionSort(al, i + 1, n);
+    }
+
+    public ListNode insertionSortList(ListNode head) {
+        List<Integer> list = new ArrayList<>();
+        ListNode temp = head;
+        while (head != null) {
+            list.add(head.val);
+            head = head.next;
+        }
+
+        insertionSort(list, 1, list.size());
+        ListNode dummy = new ListNode(-1);
+        temp = dummy;
+        for (int n : list) {
             dummy.next = new ListNode(n);
             dummy = dummy.next;
         }
@@ -110,40 +173,31 @@ class Solution3 {
 }
 
 class Solution {
-    private void insertionSort(List<Integer> al, int n)
-    {
-        if(n==0)
-            return;
 
-        insertionSort(al, n-1);
-
-        int j = n-1;
-        int key = al.get(n);
-        while(j>=0 && al.get(j) > key)
-        {
-            al.set(j+1, al.get(j));
-            j-=1;
-        }
-        al.set(j+1, key);
-        return;
-    }
     public ListNode insertionSortList(ListNode head) {
-        List<Integer> list = new ArrayList<>();
-        ListNode temp = head;
-        while(head != null)
-        {
-            list.add(head.val);
-            head = head.next;
-        }
+        ListNode dummy = new ListNode(-5555, head);
+        ListNode prev = head, cur = head.next;
 
-        insertionSort(list, list.size()-1);
-        ListNode dummy = new ListNode(-1);
-        temp = dummy;
-        for(int n : list)
+        while (cur != null) 
         {
-            dummy.next = new ListNode(n);
-            dummy = dummy.next;
+            if(cur.val >= prev.val)
+            {
+                prev=cur;
+                cur = cur.next; 
+                continue;
+            }
+            ListNode temp = dummy;
+            while (cur.val > temp.next.val) 
+            {
+                temp = temp.next;
+            }
+
+            prev.next = cur.next;
+            cur.next = temp.next;
+            temp.next = cur;
+
+            cur = prev.next;
         }
-        return temp.next;
+        return dummy.next;
     }
 }
