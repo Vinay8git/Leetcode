@@ -9,14 +9,12 @@ class Solution {
                 if(baskets[j] >= fruits[i])
                 {
                     baskets[j] = -1;
+                    count++;
                     break;
                 }
             }
         }
 
-        for(int n : baskets)
-            if(n!=-1) count++;
-
-        return count;
+        return fruits.length-count;
     }
 }
