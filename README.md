@@ -58,6 +58,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Vinay8git/Leetcode/tree/master/0231-power-of-two) |
 | [1418-fair-distribution-of-cookies](https://github.com/Vinay8git/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Vinay8git/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vinay8git/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -106,4 +107,12 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Vinay8git/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Vinay8git/Leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Vinay8git/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
