@@ -8,6 +8,7 @@
 | [0075-sort-colors](https://github.com/Vinay8git/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Vinay8git/Leetcode/tree/master/0118-pascals-triangle) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Vinay8git/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0403-frog-jump](https://github.com/Vinay8git/Leetcode/tree/master/0403-frog-jump) |
 | [1418-fair-distribution-of-cookies](https://github.com/Vinay8git/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Vinay8git/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Vinay8git/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -22,6 +23,7 @@
 | [0063-unique-paths-ii](https://github.com/Vinay8git/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/Vinay8git/Leetcode/tree/master/0118-pascals-triangle) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Vinay8git/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0403-frog-jump](https://github.com/Vinay8git/Leetcode/tree/master/0403-frog-jump) |
 | [1418-fair-distribution-of-cookies](https://github.com/Vinay8git/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Vinay8git/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Binary Search
