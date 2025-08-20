@@ -25,6 +25,7 @@
 | [0118-pascals-triangle](https://github.com/Vinay8git/Leetcode/tree/master/0118-pascals-triangle) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Vinay8git/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0403-frog-jump](https://github.com/Vinay8git/Leetcode/tree/master/0403-frog-jump) |
+| [0516-longest-palindromic-subsequence](https://github.com/Vinay8git/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1418-fair-distribution-of-cookies](https://github.com/Vinay8git/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Vinay8git/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Binary Search
@@ -40,6 +41,7 @@
 ## String
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/Vinay8git/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/Vinay8git/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Vinay8git/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [3396-valid-word](https://github.com/Vinay8git/Leetcode/tree/master/3396-valid-word) |
