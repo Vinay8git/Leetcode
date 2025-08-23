@@ -14,6 +14,7 @@
 | [2432-number-of-zero-filled-subarrays](https://github.com/Vinay8git/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Vinay8git/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vinay8git/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Vinay8git/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Vinay8git/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Vinay8git/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Vinay8git/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Vinay8git/Leetcode/tree/master/0063-unique-paths-ii) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Vinay8git/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Counting
 |  |
 | ------- |
@@ -129,4 +131,5 @@
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Vinay8git/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Vinay8git/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 <!---LeetCode Topics End-->
