@@ -51,6 +51,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Vinay8git/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0900-reordered-power-of-2](https://github.com/Vinay8git/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1160-letter-tile-possibilities](https://github.com/Vinay8git/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Vinay8git/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -97,6 +98,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Vinay8git/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/Vinay8git/Leetcode/tree/master/0147-insertion-sort-list) |
 ## Sorting
 |  |
@@ -108,6 +110,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Vinay8git/Leetcode/tree/master/0075-sort-colors) |
+| [0142-linked-list-cycle-ii](https://github.com/Vinay8git/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Segment Tree
 |  |
 | ------- |
