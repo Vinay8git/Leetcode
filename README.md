@@ -10,6 +10,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Vinay8git/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0403-frog-jump](https://github.com/Vinay8git/Leetcode/tree/master/0403-frog-jump) |
 | [1418-fair-distribution-of-cookies](https://github.com/Vinay8git/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Vinay8git/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1917-maximum-average-pass-ratio](https://github.com/Vinay8git/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Vinay8git/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Vinay8git/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -130,6 +131,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/Vinay8git/Leetcode/tree/master/0231-power-of-two) |
 | [0900-reordered-power-of-2](https://github.com/Vinay8git/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Vinay8git/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Vinay8git/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Vinay8git/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Vinay8git/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
