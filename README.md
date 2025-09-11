@@ -11,6 +11,7 @@
 | [0403-frog-jump](https://github.com/Vinay8git/Leetcode/tree/master/0403-frog-jump) |
 | [1418-fair-distribution-of-cookies](https://github.com/Vinay8git/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Vinay8git/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1896-maximum-score-from-performing-multiplication-operations](https://github.com/Vinay8git/Leetcode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [1917-maximum-average-pass-ratio](https://github.com/Vinay8git/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Vinay8git/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Vinay8git/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -32,6 +33,7 @@
 | [0403-frog-jump](https://github.com/Vinay8git/Leetcode/tree/master/0403-frog-jump) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vinay8git/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1418-fair-distribution-of-cookies](https://github.com/Vinay8git/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
+| [1896-maximum-score-from-performing-multiplication-operations](https://github.com/Vinay8git/Leetcode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Vinay8git/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Vinay8git/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Binary Search
