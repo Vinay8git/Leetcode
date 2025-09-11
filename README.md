@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/Vinay8git/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0782-jewels-and-stones](https://github.com/Vinay8git/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1160-letter-tile-possibilities](https://github.com/Vinay8git/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Vinay8git/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2887-sort-vowels-in-a-string](https://github.com/Vinay8git/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Vinay8git/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0782-jewels-and-stones](https://github.com/Vinay8git/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0900-reordered-power-of-2](https://github.com/Vinay8git/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1160-letter-tile-possibilities](https://github.com/Vinay8git/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Vinay8git/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
