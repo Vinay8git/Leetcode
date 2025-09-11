@@ -50,6 +50,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Vinay8git/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/Vinay8git/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Vinay8git/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2887-sort-vowels-in-a-string](https://github.com/Vinay8git/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/Vinay8git/Leetcode/tree/master/3396-valid-word) |
 ## Hash Table
 |  |
@@ -110,6 +111,7 @@
 | [0075-sort-colors](https://github.com/Vinay8git/Leetcode/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/Vinay8git/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0900-reordered-power-of-2](https://github.com/Vinay8git/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [2887-sort-vowels-in-a-string](https://github.com/Vinay8git/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
