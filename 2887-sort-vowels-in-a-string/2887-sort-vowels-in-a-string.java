@@ -67,7 +67,7 @@ class Solution2 {
 }
 
 
-class Solution {
+class Solution3 {
     // Returns true if the character is a vowel.
     boolean isVowel(Character c) {
         return c == 'a' || c == 'e' || c == 'o'|| c == 'u'|| c == 'i'
@@ -103,4 +103,34 @@ class Solution {
         }
         return ans.toString();
     }
-};
+}
+
+
+
+
+class Solution {
+    // Returns true if the character is a vowel.
+    boolean isVowel(Character c) {
+        return c == 'a' || c == 'e' || c == 'o'|| c == 'u'|| c == 'i'
+                || c == 'A' || c == 'E' || c == 'O'|| c == 'U'|| c == 'I';
+    }
+
+    public String sortVowels(String s) {
+        Queue<Integer> pq = new PriorityQueue<>();
+        for (char c : s.toCharArray()) {
+            if (isVowel(c)) {
+                pq.offer((int) c);
+            }
+        }
+
+        StringBuilder t = new StringBuilder(s.length());
+        for (int i = 0; i < s.length(); ++i) {
+            if (isVowel(s.charAt(i))) {
+                t.append((char) ((int) pq.poll()));
+            } else {
+                t.append(s.charAt(i));
+            }
+        }
+        return t.toString();
+    }
+}
