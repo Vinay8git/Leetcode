@@ -118,7 +118,7 @@
 
 
 
-class Solution {
+class Solution4 {
     public int canBeTypedWords(String text, String bl) {
         
         int flag=0, count=0;
@@ -143,6 +143,64 @@ class Solution {
 
             }
             wd+=text.charAt(i);
+        }
+
+        return count;
+    }
+}
+
+
+
+class Solution5 {
+    public int canBeTypedWords(String text, String bl) {
+        
+        int flag=0, count=0;
+        // text=text+" ";
+
+        String[] words = text.split(" ");
+        for(String word : words)
+        {   
+            flag=0;
+            for(int i=0;i<word.length();i++)
+            {
+                if(bl.contains(word.substring(i,i+1)))
+                {
+                    flag=1;
+                    break;
+                }
+            }
+            if(flag==0) count++;
+        }
+
+        return count;
+    }
+}
+
+
+
+class Solution {
+    public int canBeTypedWords(String text, String bl) {
+        Set<Character> st=new HashSet<>();
+        for(char c : bl.toCharArray())
+        {
+            st.add(c);
+        }
+
+        String[] words = text.split(" ");
+        int flag=0, count=0;
+
+        for(String word : words)
+        {   
+            flag=0;
+            for(char c : word.toCharArray())
+            {
+                if(st.contains(c))
+                {
+                    flag=1;
+                    break;
+                }
+            }
+            if(flag==0) count++;
         }
 
         return count;
