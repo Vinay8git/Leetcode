@@ -23,17 +23,12 @@ class Solution {
             for(int i=0;i<word.length();i++)
             {
                 
-                for(int j=0;j<bl.length();j++)
+                if(bl.contains(word.substring(i,i+1)))
                 {
-                    if(word.charAt(i)==bl.charAt(j))
-                    {
-                        flag=1;
-                        break;
-                    }
-                    
-                }
-                if(flag==1)
+                    flag=1;
                     break;
+                }
+                
             }
             if(flag==0) count++;
         }
