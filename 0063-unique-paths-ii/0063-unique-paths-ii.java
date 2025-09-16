@@ -1,99 +1,53 @@
-class Solution1 {
-    Map<String, Integer> hm;
-    private int search(int i, int j, int m, int n, int[][] og)
-    {   
-        String key = i+""+j;
-        if(hm.containsKey(key))
-            return hm.get(key);
+// class Solution {
 
-        if(i>=m || j>=n)
-        {
-            hm.put(key, 0);
-            return hm.get(key);
-        }
+//     private int countPaths(int i, int j, int m, int n, int[][]og)
+//     {
+//         if(i>=m || j>=n) return 0;
+//         if(og[i][j] == 1) return 0;
+
+//         if(i==m-1 && j==n-1) return 1;
+
+//         return countPaths(i, j+1, m, n, og) + countPaths(i+1, j, m, n, og);
+//     }
+
+//     public int uniquePathsWithObstacles(int[][] obstacleGrid) {
+//         return countPaths(0, 0, obstacleGrid.length, obstacleGrid[0].length, obstacleGrid);
+//     }
+// }
+
+
+//Top-Down DP : Memoization 
+//TC : O(M*N)
+//SC : O(M*N)
+class Solution 
+{
+    Map<String , Integer> memo;
+    private int countPaths(int i, int j, int m, int n, int[][]og)
+    {
+        if(i>=m || j>=n) return 0;
+
+        String key = i+""+j;
+        if(memo.containsKey(key))
+            return memo.get(key);
+
         if(og[i][j] == 1)
         {
-            hm.put(key, 0);
-            return hm.get(key);
+            memo.put(key, 0);
+            return memo.get(key);
         }
 
-        hm.put(key, search(i+1, j, m, n, og) + search(i, j+1, m, n, og));
-        return hm.get(key);
+        memo.put(key, countPaths(i, j+1, m, n, og) + countPaths(i+1, j, m, n, og));
+        return memo.get(key);
     }
-    public int uniquePathsWithObstacles(int[][] og) 
+
+    public int uniquePathsWithObstacles(int[][] obstacleGrid) 
     {
-        hm = new HashMap<>();
-        int m = og.length;
-        int n = og[0].length;
-        if(og[m-1][n-1] == 1) return 0;
+        memo = new HashMap<>();
+        int m = obstacleGrid.length, n = obstacleGrid[0].length;
 
-        //Base Case
-        hm.put((m-1)+""+(n-1), 1);
-
-        return search(0, 0, m, n, og);
-    }
-}
-
-
-class Solution2 {
-    public int uniquePathsWithObstacles(int[][] og) 
-    {
-        int m = og.length;
-        int n = og[0].length;
-
-        //Special Case
-        if(og[m-1][n-1] == 1) return 0;
-
-        int[][] dp = new int[m+1][n+1];
-
-        //Base Case
-        dp[m-1][n-1] = 1;
-
-        for(int i=m-1; i>=0; i--)
-        {
-            for(int j=n-1; j>=0; j--)
-            {
-                if(i==m-1 && j==n-1)
-                    continue;
-
-                if(og[i][j]==1)
-                    dp[i][j]=0;
-
-                else dp[i][j] = dp[i+1][j]+dp[i][j+1];
-            }
-        }
-        return dp[0][0];
-    }
-}
-
-class Solution {
-    public int uniquePathsWithObstacles(int[][] og) 
-    {
-        int m = og.length;
-        int n = og[0].length;
-
-        //Special Case
-        if(og[m-1][n-1] == 1) return 0;
-        if(og[0][0] == 1) return 0;
-
-        int[][] dp = new int[m+1][n+1];
-
-        //Base Case
-        dp[1][1] = 1;
-
-        for(int i=1; i<=m; i++)
-        {
-            for(int j=1; j<=n; j++)
-            {
-                if(i==1 && j==1)
-                    continue;
-
-                if(og[i-1][j-1]==1)
-                    dp[i][j]=0;
-
-                else dp[i][j] = dp[i-1][j]+dp[i][j-1];
-            }
-        }
-        return dp[m][n];
+        if(obstacleGrid[m-1][n-1] == 1) return 0;
+        
+        memo.put((m-1)+""+(n-1), 1);
+        return countPaths(0, 0, m, n, obstacleGrid);
     }
 }
