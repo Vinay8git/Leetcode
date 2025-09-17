@@ -9,6 +9,7 @@
 | [0118-pascals-triangle](https://github.com/Vinay8git/Leetcode/tree/master/0118-pascals-triangle) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Vinay8git/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0403-frog-jump](https://github.com/Vinay8git/Leetcode/tree/master/0403-frog-jump) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/Vinay8git/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1418-fair-distribution-of-cookies](https://github.com/Vinay8git/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Vinay8git/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/Vinay8git/Leetcode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
@@ -65,6 +66,7 @@
 | [0900-reordered-power-of-2](https://github.com/Vinay8git/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1160-letter-tile-possibilities](https://github.com/Vinay8git/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Vinay8git/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/Vinay8git/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Vinay8git/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Vinay8git/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
@@ -108,6 +110,7 @@
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Vinay8git/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1160-letter-tile-possibilities](https://github.com/Vinay8git/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/Vinay8git/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Vinay8git/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
@@ -120,6 +123,7 @@
 | [0075-sort-colors](https://github.com/Vinay8git/Leetcode/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/Vinay8git/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0900-reordered-power-of-2](https://github.com/Vinay8git/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/Vinay8git/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2887-sort-vowels-in-a-string](https://github.com/Vinay8git/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Two Pointers
 |  |
