@@ -115,6 +115,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Vinay8git/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Vinay8git/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/Vinay8git/Leetcode/tree/master/0147-insertion-sort-list) |
 ## Sorting
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Vinay8git/Leetcode/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Vinay8git/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Vinay8git/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Segment Tree
 |  |
