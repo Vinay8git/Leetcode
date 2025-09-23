@@ -59,42 +59,91 @@
 
 
 
-class Solution {
-    Map<String, Integer> memo;
-    public int dfs(int[][] matrix, int r, int c, int n)
-    {
-        String key = r+","+c;
-        if(memo.containsKey(key))
-            return memo.get(key);
+// class Solution {
+//     Map<String, Integer> memo;
+//     public int dfs(int[][] matrix, int r, int c, int n)
+//     {
+//         String key = r+","+c;
+//         if(memo.containsKey(key))
+//             return memo.get(key);
 
-        if(c<0 || c>=n)
-        {
-            // memo.put(key, Integer.MAX_VALUE);
-            return Integer.MAX_VALUE;
-        }
+//         if(c<0 || c>=n)
+//         {
+//             // memo.put(key, Integer.MAX_VALUE);
+//             return Integer.MAX_VALUE;
+//         }
 
-        if(r==n)
-        {
-            memo.put(key, 0);
-                return memo.get(key);
-        }
+//         if(r==n)
+//         {
+//             memo.put(key, 0);
+//                 return memo.get(key);
+//         }
 
-        int left=dfs(matrix, r+1, c-1, n);
-        int mid=dfs(matrix, r+1, c, n);
-        int right=dfs(matrix, r+1, c+1, n);
+//         int left=dfs(matrix, r+1, c-1, n);
+//         int mid=dfs(matrix, r+1, c, n);
+//         int right=dfs(matrix, r+1, c+1, n);
 
-        memo.put(key, (matrix[r][c]+Math.min(left, Math.min(mid, right))));
-        return memo.get(key);
-    }
+//         memo.put(key, (matrix[r][c]+Math.min(left, Math.min(mid, right))));
+//         return memo.get(key);
+//     }
+//     public int minFallingPathSum(int[][] matrix) {
+//         int n=matrix.length, min=Integer.MAX_VALUE;
+//         memo = new HashMap<>();
+
+//         for(int i=0;i<n;i++)
+//         {
+//             int res=dfs(matrix, 0, i, n);
+//             min=Math.min(min, res);
+//         }
+//         return min;
+//     }
+// }
+
+
+
+
+
+
+class Solution 
+{
     public int minFallingPathSum(int[][] matrix) {
         int n=matrix.length, min=Integer.MAX_VALUE;
-        memo = new HashMap<>();
+        int[][] dp = new int[n][n];
 
-        for(int i=0;i<n;i++)
+        // for(int i=0;i<n;i++)
+        // {
+        //     Arrays.fill(dp[i], Integer.MAX_VALUE);
+        // }
+        for(int j=0;j<n;j++)
         {
-            int res=dfs(matrix, 0, i, n);
-            min=Math.min(min, res);
+            dp[n-1][j] = matrix[n-1][j];
         }
+
+        for(int i=n-2;i>=0;i--)
+        {
+            for(int j=0;j<n;j++)
+            {
+                if(j==0)
+                {
+                    dp[i][j] = matrix[i][j] + Math.min( dp[i+1][j], dp[i+1][j+1] );
+                }
+                else if(j==n-1)
+                {
+                    dp[i][j] = matrix[i][j] + Math.min( dp[i+1][j], dp[i+1][j-1] );
+                }
+                else
+                {
+                    dp[i][j] = matrix[i][j] + Math.min(dp[i+1][j-1], Math.min(dp[i+1][j], dp[i+1][j+1]));
+                }
+            }
+        }
+
+        for(int j=0 ; j<n ; j++)
+        {
+            min = Math.min(min, dp[0][j]);
+        }
+
+
         return min;
     }
 }
