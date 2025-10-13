@@ -40,7 +40,7 @@ class Solution2 {
 
 
 //Two Loops
-class Solution {
+class Solution3 {
     public int removeDuplicates(int[] nums) 
     {
         int prev = nums[0];
@@ -60,5 +60,24 @@ class Solution {
         }
         
         return k;  
+    }
+}
+
+
+//Two Pointer
+class Solution {
+    public int removeDuplicates(int[] nums) 
+    {
+        int j=1, n=nums.length;
+        for(int i=1;i<n;i++)
+        {
+            if(nums[i]!=nums[i-1])
+            {
+                nums[j]=nums[i];
+                j++;
+            }
+        }
+        
+        return j;  
     }
 }
