@@ -81,11 +81,11 @@ class Solution {
                     k--;
                 } else {
                     // Found a triplet that sums up to target
-                    List<Integer> temp = new ArrayList<>();
-                    temp.add(nums[i]);
-                    temp.add(nums[j]);
-                    temp.add(nums[k]);
-                    ans.add(temp);
+                    // List<Integer> temp = new ArrayList<>();
+                    // temp.add(nums[i]);
+                    // temp.add(nums[j]);
+                    // temp.add(nums[k]);
+                    ans.add(Arrays.asList(nums[i], nums[j], nums[k]));
                     
                     // Skip duplicates
                     j++;
