@@ -37,6 +37,7 @@
 | [0118-pascals-triangle](https://github.com/Vinay8git/Leetcode/tree/master/0118-pascals-triangle) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Vinay8git/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0403-frog-jump](https://github.com/Vinay8git/Leetcode/tree/master/0403-frog-jump) |
+| [0464-can-i-win](https://github.com/Vinay8git/Leetcode/tree/master/0464-can-i-win) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vinay8git/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0967-minimum-falling-path-sum](https://github.com/Vinay8git/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1418-fair-distribution-of-cookies](https://github.com/Vinay8git/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Vinay8git/Leetcode/tree/master/0231-power-of-two) |
+| [0464-can-i-win](https://github.com/Vinay8git/Leetcode/tree/master/0464-can-i-win) |
 | [1418-fair-distribution-of-cookies](https://github.com/Vinay8git/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Vinay8git/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vinay8git/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -100,6 +102,7 @@
 ## Bitmask
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/Vinay8git/Leetcode/tree/master/0464-can-i-win) |
 | [1418-fair-distribution-of-cookies](https://github.com/Vinay8git/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 ## Sliding Window
 |  |
@@ -165,6 +168,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Vinay8git/Leetcode/tree/master/0231-power-of-two) |
+| [0464-can-i-win](https://github.com/Vinay8git/Leetcode/tree/master/0464-can-i-win) |
 | [0900-reordered-power-of-2](https://github.com/Vinay8git/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Vinay8git/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1642-water-bottles](https://github.com/Vinay8git/Leetcode/tree/master/1642-water-bottles) |
@@ -196,4 +200,12 @@
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Vinay8git/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Memoization
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/Vinay8git/Leetcode/tree/master/0464-can-i-win) |
+## Game Theory
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/Vinay8git/Leetcode/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
