@@ -15,8 +15,8 @@ class Solution {
     private boolean canWin(int used, int curr, int max, int dt)
     {
         if(hm.containsKey(used)) return hm.get(used);
-
-        for(int i=1;i<=max;i++)
+        int i=1;
+        do //for(int i=1;i<=max;i++)
         {
             int curBit = 1 << i;
             if((used & curBit) == 0)
@@ -27,7 +27,8 @@ class Solution {
                     return true;
                 }
             }
-        }
+            i++;
+        }while(i<=max);
         hm.put(used, false);
         return false;
     }
