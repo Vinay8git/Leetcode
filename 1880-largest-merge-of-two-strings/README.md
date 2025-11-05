@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/largest-merge-of-two-strings">1880. Largest Merge Of Two Strings</a></h2><h3>Medium</h3><hr><p>You are given two strings <code>word1</code> and <code>word2</code>. You want to construct a string <code>merge</code> in the following way: while either <code>word1</code> or <code>word2</code> are non-empty, choose <strong>one</strong> of the following options:</p>
+<h2><a href="https://leetcode.com/problems/largest-merge-of-two-strings">Largest Merge Of Two Strings</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given two strings <code>word1</code> and <code>word2</code>. You want to construct a string <code>merge</code> in the following way: while either <code>word1</code> or <code>word2</code> are non-empty, choose <strong>one</strong> of the following options:</p>
 
 <ul>
 	<li>If <code>word1</code> is non-empty, append the <strong>first</strong> character in <code>word1</code> to <code>merge</code> and delete it from <code>word1</code>.
