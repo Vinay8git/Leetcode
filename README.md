@@ -45,6 +45,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/Vinay8git/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1418-fair-distribution-of-cookies](https://github.com/Vinay8git/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Vinay8git/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Vinay8git/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/Vinay8git/Leetcode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Vinay8git/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2755-extra-characters-in-a-string](https://github.com/Vinay8git/Leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -106,6 +107,7 @@
 | [0231-power-of-two](https://github.com/Vinay8git/Leetcode/tree/master/0231-power-of-two) |
 | [0464-can-i-win](https://github.com/Vinay8git/Leetcode/tree/master/0464-can-i-win) |
 | [1418-fair-distribution-of-cookies](https://github.com/Vinay8git/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Vinay8git/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Vinay8git/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vinay8git/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Vinay8git/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -216,6 +218,7 @@
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/Vinay8git/Leetcode/tree/master/0464-can-i-win) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Vinay8git/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Game Theory
 |  |
 | ------- |
