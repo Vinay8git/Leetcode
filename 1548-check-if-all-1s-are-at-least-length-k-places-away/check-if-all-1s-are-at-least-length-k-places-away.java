@@ -56,7 +56,7 @@ class Solution3 {
 
 
 
-class Solution {
+class Solution4 {
     public boolean kLengthApart(int[] nums, int k) {
         int n = nums.length;
         for(int i=0;i<n-1;i++)
@@ -81,12 +81,23 @@ class Solution {
 
 
 
-class Solution5 {
+class Solution {
     public boolean kLengthApart(int[] nums, int k) {
         int n = nums.length;
         int s=0, e=0;
-        while(s<n)
+        while(s<n && nums[s] != 1) s++;
+        e=s+1;
+
+        if(e>=n) return true;
+
+        while(e<n)
         {
+            if(nums[e] == 1)
+            {
+                if((e-s-1) < k) return false;
+                else s=e;
+            }
+            e++;
 
         }
         return true;
