@@ -14,6 +14,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Vinay8git/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0403-frog-jump](https://github.com/Vinay8git/Leetcode/tree/master/0403-frog-jump) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vinay8git/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/Vinay8git/Leetcode/tree/master/0645-set-mismatch) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Vinay8git/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0967-minimum-falling-path-sum](https://github.com/Vinay8git/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Vinay8git/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -88,6 +89,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Vinay8git/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/Vinay8git/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vinay8git/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/Vinay8git/Leetcode/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/Vinay8git/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0900-reordered-power-of-2](https://github.com/Vinay8git/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1160-letter-tile-possibilities](https://github.com/Vinay8git/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -116,6 +118,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/Vinay8git/Leetcode/tree/master/0231-power-of-two) |
 | [0464-can-i-win](https://github.com/Vinay8git/Leetcode/tree/master/0464-can-i-win) |
+| [0645-set-mismatch](https://github.com/Vinay8git/Leetcode/tree/master/0645-set-mismatch) |
 | [1418-fair-distribution-of-cookies](https://github.com/Vinay8git/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Vinay8git/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Vinay8git/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -160,6 +163,7 @@
 | [0075-sort-colors](https://github.com/Vinay8git/Leetcode/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/Vinay8git/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vinay8git/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/Vinay8git/Leetcode/tree/master/0645-set-mismatch) |
 | [0900-reordered-power-of-2](https://github.com/Vinay8git/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Vinay8git/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Vinay8git/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
