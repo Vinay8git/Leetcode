@@ -21,6 +21,7 @@
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Vinay8git/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1418-fair-distribution-of-cookies](https://github.com/Vinay8git/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Vinay8git/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Vinay8git/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Vinay8git/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1580-shuffle-the-array](https://github.com/Vinay8git/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Vinay8git/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -187,6 +188,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/Vinay8git/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/Vinay8git/Leetcode/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/Vinay8git/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Vinay8git/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -228,6 +230,7 @@
 ## Stack
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/Vinay8git/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Vinay8git/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Monotonic Stack
 |  |
