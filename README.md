@@ -34,6 +34,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Vinay8git/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vinay8git/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2755-extra-characters-in-a-string](https://github.com/Vinay8git/Leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Vinay8git/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Vinay8git/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Vinay8git/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Vinay8git/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -82,6 +83,7 @@
 | [1880-largest-merge-of-two-strings](https://github.com/Vinay8git/Leetcode/tree/master/1880-largest-merge-of-two-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Vinay8git/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/Vinay8git/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Vinay8git/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3396-valid-word](https://github.com/Vinay8git/Leetcode/tree/master/3396-valid-word) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Vinay8git/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Hash Table
@@ -281,4 +283,12 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vinay8git/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vinay8git/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Vinay8git/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Vinay8git/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Vinay8git/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
