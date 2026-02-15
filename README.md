@@ -77,6 +77,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Vinay8git/Leetcode/tree/master/0067-add-binary) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vinay8git/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0782-jewels-and-stones](https://github.com/Vinay8git/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1160-letter-tile-possibilities](https://github.com/Vinay8git/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -124,6 +125,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Vinay8git/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Vinay8git/Leetcode/tree/master/0231-power-of-two) |
 | [0464-can-i-win](https://github.com/Vinay8git/Leetcode/tree/master/0464-can-i-win) |
 | [0645-set-mismatch](https://github.com/Vinay8git/Leetcode/tree/master/0645-set-mismatch) |
@@ -193,6 +195,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Vinay8git/Leetcode/tree/master/0067-add-binary) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Vinay8git/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/Vinay8git/Leetcode/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/Vinay8git/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -205,6 +208,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Vinay8git/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Vinay8git/Leetcode/tree/master/0231-power-of-two) |
 | [0464-can-i-win](https://github.com/Vinay8git/Leetcode/tree/master/0464-can-i-win) |
 | [0900-reordered-power-of-2](https://github.com/Vinay8git/Leetcode/tree/master/0900-reordered-power-of-2) |
