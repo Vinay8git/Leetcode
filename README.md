@@ -22,6 +22,7 @@
 | [1418-fair-distribution-of-cookies](https://github.com/Vinay8git/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Vinay8git/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Vinay8git/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Vinay8git/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Vinay8git/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1580-shuffle-the-array](https://github.com/Vinay8git/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Vinay8git/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -113,6 +114,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Vinay8git/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Vinay8git/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vinay8git/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1880-largest-merge-of-two-strings](https://github.com/Vinay8git/Leetcode/tree/master/1880-largest-merge-of-two-strings) |
@@ -154,6 +156,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Vinay8git/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/Vinay8git/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Vinay8git/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Vinay8git/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Counting
 |  |
