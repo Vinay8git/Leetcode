@@ -98,6 +98,7 @@
 | [0001-two-sum](https://github.com/Vinay8git/Leetcode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Vinay8git/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/Vinay8git/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Vinay8git/Leetcode/tree/master/0146-lru-cache) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vinay8git/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vinay8git/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Vinay8git/Leetcode/tree/master/0645-set-mismatch) |
@@ -171,6 +172,7 @@
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Vinay8git/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Vinay8git/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Vinay8git/Leetcode/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/Vinay8git/Leetcode/tree/master/0147-insertion-sort-list) |
 ## Sorting
 |  |
@@ -303,4 +305,12 @@
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Vinay8git/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Vinay8git/Leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Vinay8git/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
