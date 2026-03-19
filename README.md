@@ -37,6 +37,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/Vinay8git/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Vinay8git/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Vinay8git/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vinay8git/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Vinay8git/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Vinay8git/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Vinay8git/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Vinay8git/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vinay8git/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3643-zero-array-transformation-ii](https://github.com/Vinay8git/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## String
 |  |
@@ -162,6 +164,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/Vinay8git/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Vinay8git/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Vinay8git/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vinay8git/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Vinay8git/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Counting
 |  |
