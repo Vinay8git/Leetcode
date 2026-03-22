@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Vinay8git/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Vinay8git/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vinay8git/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0056-merge-intervals](https://github.com/Vinay8git/Leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Vinay8git/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Vinay8git/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Vinay8git/Leetcode/tree/master/0118-pascals-triangle) |
@@ -186,6 +187,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Vinay8git/Leetcode/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Vinay8git/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Vinay8git/Leetcode/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/Vinay8git/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vinay8git/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
