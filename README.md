@@ -38,6 +38,7 @@
 | [2463-minimum-total-distance-traveled](https://github.com/Vinay8git/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Vinay8git/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vinay8git/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Vinay8git/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Vinay8git/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Vinay8git/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Vinay8git/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -97,6 +98,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vinay8git/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Vinay8git/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1880-largest-merge-of-two-strings](https://github.com/Vinay8git/Leetcode/tree/master/1880-largest-merge-of-two-strings) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Vinay8git/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Vinay8git/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/Vinay8git/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Vinay8git/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
