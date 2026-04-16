@@ -45,6 +45,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vinay8git/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Vinay8git/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Vinay8git/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3488-closest-equal-element-queries](https://github.com/Vinay8git/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Vinay8git/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Vinay8git/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Vinay8git/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -78,6 +79,7 @@
 | ------- |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Vinay8git/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Vinay8git/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3488-closest-equal-element-queries](https://github.com/Vinay8git/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3643-zero-array-transformation-ii](https://github.com/Vinay8git/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vinay8git/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Prefix Sum
@@ -121,6 +123,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Vinay8git/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Vinay8git/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2755-extra-characters-in-a-string](https://github.com/Vinay8git/Leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [3488-closest-equal-element-queries](https://github.com/Vinay8git/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Vinay8git/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Vinay8git/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Vinay8git/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
