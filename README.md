@@ -39,6 +39,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Vinay8git/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vinay8git/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Vinay8git/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/Vinay8git/Leetcode/tree/master/2540-minimum-common-value) |
 | [2755-extra-characters-in-a-string](https://github.com/Vinay8git/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Vinay8git/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Vinay8git/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -79,6 +80,7 @@
 | ------- |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Vinay8git/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Vinay8git/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2540-minimum-common-value](https://github.com/Vinay8git/Leetcode/tree/master/2540-minimum-common-value) |
 | [3488-closest-equal-element-queries](https://github.com/Vinay8git/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3643-zero-array-transformation-ii](https://github.com/Vinay8git/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vinay8git/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -122,6 +124,7 @@
 | [1160-letter-tile-possibilities](https://github.com/Vinay8git/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Vinay8git/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Vinay8git/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [2540-minimum-common-value](https://github.com/Vinay8git/Leetcode/tree/master/2540-minimum-common-value) |
 | [2755-extra-characters-in-a-string](https://github.com/Vinay8git/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3488-closest-equal-element-queries](https://github.com/Vinay8git/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Vinay8git/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -216,6 +219,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Vinay8git/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [1880-largest-merge-of-two-strings](https://github.com/Vinay8git/Leetcode/tree/master/1880-largest-merge-of-two-strings) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Vinay8git/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2540-minimum-common-value](https://github.com/Vinay8git/Leetcode/tree/master/2540-minimum-common-value) |
 ## Segment Tree
 |  |
 | ------- |
