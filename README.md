@@ -50,6 +50,7 @@
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Vinay8git/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Vinay8git/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Vinay8git/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Vinay8git/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3640-trionic-array-ii](https://github.com/Vinay8git/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Vinay8git/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Vinay8git/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -82,6 +83,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Vinay8git/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2540-minimum-common-value](https://github.com/Vinay8git/Leetcode/tree/master/2540-minimum-common-value) |
 | [3488-closest-equal-element-queries](https://github.com/Vinay8git/Leetcode/tree/master/3488-closest-equal-element-queries) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Vinay8git/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Vinay8git/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vinay8git/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Prefix Sum
@@ -139,6 +141,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vinay8git/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1880-largest-merge-of-two-strings](https://github.com/Vinay8git/Leetcode/tree/master/1880-largest-merge-of-two-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/Vinay8git/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Vinay8git/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Vinay8git/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Backtracking
 |  |
@@ -209,6 +212,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Vinay8git/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2463-minimum-total-distance-traveled](https://github.com/Vinay8git/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2887-sort-vowels-in-a-string](https://github.com/Vinay8git/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Vinay8git/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -220,6 +224,7 @@
 | [1880-largest-merge-of-two-strings](https://github.com/Vinay8git/Leetcode/tree/master/1880-largest-merge-of-two-strings) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Vinay8git/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/Vinay8git/Leetcode/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Vinay8git/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Segment Tree
 |  |
 | ------- |
